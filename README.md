@@ -71,7 +71,7 @@ For now, we'll focus on staging. We'll spin up and destroy our environment in a 
 1. Click **Propose changes**.
 1. Click **Create pull request**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+[![.github/workflows/depploy-staging.yml](https://github.com/yesehake/skills-deploy-to-azure/actions/workflows/depploy-staging.yml/badge.svg)](https://github.com/yesehake/skills-deploy-to-azure/actions/workflows/depploy-staging.yml)
 <footer>
 
 <!--
